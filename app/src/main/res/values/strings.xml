@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">تایم لاگر</string>
+    <string name="wlc">به رسانه ی بامبو خوش آمدید</string>
+    <string name="routine">نام روتین را وارد کنید</string>
+    <string name="report">گزارش</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start"> شروع تایمر</string>
+    <string name="Time">مقدار زمان</string>
+    <string name="done">انجام</string>
+    <string name="RoutineAdded">روتین وارد شده با موفقیت ثبت شد</string>
+    <string name="Error">مشکلی پیش آمد</string>
+
+    <string name="pause">مکث / ادامه</string>
+    <string name="stop">توقف تایمر</string>
+    <string name="percent">درصد فعالیت شما</string>
+    <string name="selectReportDate">انتخاب تاریخ گزارش</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+
+    <string name="path"> /></string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="configure">Configure</string>
+    <string name="add_routine">اضافه کردن روتین</string>
+    <string name="sds">sd d</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
